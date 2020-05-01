@@ -1,3 +1,7 @@
+### playinh with the road-to-learn-react
+The project is about boostrapping trending articles from hackernew blog about react, redux,node and graphql
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
